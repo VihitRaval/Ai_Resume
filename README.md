@@ -1,2 +1,1 @@
-# Ai_Resume
-An AI-powered web application that analyzes user resumes using NLP and suggests relevant job roles based on extracted skills and experience. It also provides GPT-based suggestions to improve resume content and enhance job matching.
+Smart resume analysis + job matching using NLP and AI. Upload your resume and get tailored job suggestions, plus intelligent feedback to make your CV stand out. Built using Python, Flask, and NLP libraries.
