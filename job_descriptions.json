@@ -1,0 +1,23 @@
+
+[
+    {
+        "title": "AI Engineer",
+        "description": "Looking for an AI Engineer skilled in Python, Machine Learning, and Data Analysis."
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Seeking a developer with expertise in HTML, CSS, JavaScript, and modern frameworks."
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Proficient in Flask, SQL, Python, and API development."
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Analyze data using Python, SQL, and visualization tools."
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Strong knowledge of both frontend and backend technologies including JavaScript, Python, and databases."
+    }
+]
